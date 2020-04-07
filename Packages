@@ -26,3 +26,13 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.im3nace.chr0n0s13
+Name: Chr0n0s iOS 13
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Sexy looking lockscreen widget for iOS 13 & XenHTML
+Depiction: https://im3nace.github.io/repo/depictions/?p=com.im3nace.chr0n0s13
+Author: iM3nace & ImLemonPartying <ryanwesq1@gmail.com>
+Section: Widgets
+Maintainer: iM3nace <ryanwesq1@gmail.com>
+
