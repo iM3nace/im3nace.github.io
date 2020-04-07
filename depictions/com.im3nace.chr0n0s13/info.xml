@@ -1,0 +1,23 @@
+<package>
+    <id>com.im3nace.chr0n0s13</id>
+    <name>Chr0n0s iOS 13</name>
+    <version>1.1</version>
+    <compatibility>
+        <firmware>
+            <maxiOS>13.4</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+            <!--
+            for otherVersions, you can put either unsupported or unconfirmed
+            -->
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Sexy looking lockscreen widget for iOS 13 & XenHTML</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Official iOS 13/XenHTML Support</change>
+    </changelog>
+    <links></links>
+</package>
